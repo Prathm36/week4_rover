@@ -1,0 +1,9 @@
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/uninstall.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/week4_uninstall.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/test.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/edit_cache.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/rebuild_cache.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/list_install_components.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/install.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/install/local.dir
+/home/codex-36/ros2_ws/src/week4_rover/build/week4/CMakeFiles/install/strip.dir

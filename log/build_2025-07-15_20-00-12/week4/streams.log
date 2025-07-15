@@ -1,0 +1,29 @@
+[0.016s] Invoking command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/codex-36/ros2_ws/src/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/codex-36/ros2_ws/src/week4_rover/build/week4 -- -j8 -l8
+[0.062s] Invoked command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/codex-36/ros2_ws/src/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/codex-36/ros2_ws/src/week4_rover/build/week4 -- -j8 -l8
+[0.075s] Invoking command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/codex-36/ros2_ws/src/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/codex-36/ros2_ws/src/week4_rover/build/week4
+[0.083s] -- Install configuration: ""
+[0.083s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//launch
+[0.084s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//launch/display.launch.py
+[0.084s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//launch/gazebo_launch.py
+[0.084s] -- Installing: /home/codex-36/ros2_ws/src/week4_rover/install/week4/lib/week4/controller_node.py
+[0.084s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//urdf
+[0.084s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//urdf/my_rover_gazebo.urdf
+[0.085s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4//urdf/my_rover.urdf
+[0.085s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/lib/week4/rover_control_node.py
+[0.085s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/lib/week4/test_control_node.py
+[0.085s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/ament_index/resource_index/package_run_dependencies/week4
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/ament_index/resource_index/parent_prefix_path/week4
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/environment/ament_prefix_path.sh
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/environment/ament_prefix_path.dsv
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/environment/path.sh
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/environment/path.dsv
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/local_setup.bash
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/local_setup.sh
+[0.086s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/local_setup.zsh
+[0.087s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/local_setup.dsv
+[0.087s] -- Installing: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/package.dsv
+[0.087s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/ament_index/resource_index/packages/week4
+[0.087s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/cmake/week4Config.cmake
+[0.087s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/cmake/week4Config-version.cmake
+[0.087s] -- Up-to-date: /home/codex-36/ros2_ws/src/week4_rover/install/week4/share/week4/package.xml
+[0.089s] Invoked command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/codex-36/ros2_ws/src/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/codex-36/ros2_ws/src/week4_rover/build/week4

@@ -1,0 +1,6 @@
+Invoking command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/codex-36/ros2_ws/src/week4_rover/week4 -DCMAKE_INSTALL_PREFIX=/home/codex-36/ros2_ws/src/week4_rover/install/week4
+Invoked command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/codex-36/ros2_ws/src/week4_rover/week4 -DCMAKE_INSTALL_PREFIX=/home/codex-36/ros2_ws/src/week4_rover/install/week4
+Invoking command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/codex-36/ros2_ws/src/week4_rover/build/week4 -- -j8 -l8
+Invoked command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/codex-36/ros2_ws/src/week4_rover/build/week4 -- -j8 -l8
+Invoking command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/codex-36/ros2_ws/src/week4_rover/build/week4
+Invoked command in '/home/codex-36/ros2_ws/src/week4_rover/build/week4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/codex-36/ros2_ws/src/week4_rover/build/week4
